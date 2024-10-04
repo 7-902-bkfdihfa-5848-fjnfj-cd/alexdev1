@@ -1,7 +1,7 @@
 'use client'
 
 import React, { useEffect, useRef, useState } from 'react'
-import { Send, Mail, Github, Linkedin, Code, Server, Zap, FileCode, Atom, MoreHorizontal } from 'lucide-react'
+import { Send, Mail, Code, Server, Zap, FileCode, Atom, MoreHorizontal } from 'lucide-react';
 import Image from 'next/image'
 import { motion, useScroll, useTransform, AnimatePresence } from 'framer-motion'
 
