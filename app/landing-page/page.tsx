@@ -173,7 +173,7 @@ export default function LandingPage() {
                 className="text-center mt-8"
               >
                 <p className="text-sm uppercase tracking-widest text-gray-400 mb-2">WELCOME TO</p>
-                <h1 className="text-4xl font-bold text-white mb-4">Alexandru's Portfolio</h1>
+                <h1 className="text-4xl font-bold text-white mb-4">Alexandru&apos;s Portfolio</h1>
                 <p className="text-lg text-gray-300">Please wait for the Website to load.</p>
               </motion.div>
               <motion.div
@@ -234,7 +234,7 @@ export default function LandingPage() {
                 into unique <AnimatedSpan>websites</AnimatedSpan>
               </h1>
               <p className="text-xl mb-8 md:text-2xl">
-                Hi! I'm Alex, a Full-Stack Web Developer based in Germany.
+                Hi! I&apos;m Alex, a Full-Stack Web Developer based in Germany.
               </p>
               <motion.button
                 onClick={() => scrollTo('projects')}
@@ -329,7 +329,7 @@ export default function LandingPage() {
                 <div className="absolute inset-0 bg-[url('/placeholder.svg?height=400&width=400')] bg-cover bg-center opacity-20 group-hover:opacity-50 transition-opacity duration-300"></div>
                 <div className="relative z-10 flex flex-col items-center text-center transition-all duration-300 group-hover:translate-y-1 group-hover:opacity-90">
                   <h2 className="text-2xl font-bold mb-4 transition-transform duration-300 group-hover:scale-110 group-hover:text-[#e0e0e0]">Do you want to start a project together?</h2>
-                  <p className="text-lg mb-6 transition-transform duration-300 group-hover:scale-105 group-hover:text-[#d3d3d3]">Let's collaborate and bring your ideas to life!</p>
+                  <p className="text-lg mb-6 transition-transform duration-300 group-hover:scale-105 group-hover:text-[#d3d3d3]">Let&apos;s collaborate and bring your ideas to life!</p>
                   <motion.button 
                     className="bg-[#13132b] text-white px-6 py-3 rounded-full flex items-center justify-center space-x-2 transition-transform duration-300 transform hover:scale-110 hover:bg-[#1e1e3f] shadow hover:shadow-2xl"
                     whileHover={{ scale: 1.1 }}
